@@ -10,9 +10,8 @@ Grid Garage can be downloaded here:
 
 ### Support or Contact
 
-Having trouble with our products? Need a ghost removed?
+Having trouble with our products?
 
 Email **Tom**: tom.barrett@environment.nsw.gov.au
 
-He'll sort ya!
 
