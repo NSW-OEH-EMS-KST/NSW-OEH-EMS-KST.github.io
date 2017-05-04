@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to the KST GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/NSW-OEH-EMS-KST/NSW-OEH-EMS-KST.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Grid Garage
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Grid Garage** is an ArcGIS toolbox ... Tom, go for it...
 
-### Markdown
+Grid garage release are found here:
+<>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NSW-OEH-EMS-KST/NSW-OEH-EMS-KST.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with our products? Need a ghost removed?
+
+Call TOM, tom.barrett@environment.nsw.gov.au
+
