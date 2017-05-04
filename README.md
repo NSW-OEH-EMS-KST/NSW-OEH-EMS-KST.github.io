@@ -4,13 +4,15 @@
 
 **Grid Garage** is an ArcGIS toolbox ... Tom, go for it...
 
-Grid garage release are found here:
-<>
+Grid Garage can be downloaded here:
+[Grid Garage Releases](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases)
 
 
 ### Support or Contact
 
 Having trouble with our products? Need a ghost removed?
 
-Call TOM, tom.barrett@environment.nsw.gov.au
+Email **Tom**: tom.barrett@environment.nsw.gov.au
+
+He'll sort ya!
 
