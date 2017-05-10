@@ -13,6 +13,11 @@ The **Grid Garage** python script tools grew over time to manage processing proj
 Grid Garage can be downloaded here:
 [Grid Garage Releases](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases)
 
+The Grid Garage User Guide can be downloaded here:
+[Grid Garage User Guide Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-sample-data/xxx)
+
+The Sample Data used by the Grid Garage tutorials can be downloaded here:
+[Sample Data Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-sample-data/releases)
 
 ## KST Custom Tools
 
