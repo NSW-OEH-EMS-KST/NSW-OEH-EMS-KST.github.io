@@ -18,6 +18,10 @@ Some custom ArcGIS tools developed by the NSW OEH Ecosystem Management Science K
 
 Nothing groundbreaking, just a few tools to address situations where no easy or obvious workflow in ArcGIS was available.
 
+The tools can be downloaded here: 
+[KST Custom Tools Latest Release](https://github.com/NSW-OEH-EMS-KST/kst-custom-tools/tree/kst_custom_tools_1.0.0)
+
+
 
 ### Support or Contact
 
