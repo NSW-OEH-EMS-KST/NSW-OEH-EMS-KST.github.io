@@ -6,7 +6,7 @@
 
 **Grid Garage** is an ArcGIS python toolbox supporting table based processing.The toolbox is being developed under ArcGIS 10.4.0 
 
-The **Grid Garage** python script tools grew over time to manage processing projects within the Knowledge Services Team of the NSW Office of Environment and Heritage. The toolset proves useful when dealing with large amounts of data, some of which may be suffering from data management issues such as lack of metadata, non-standard spatial references, etc. The tools output tables reporting meta-detail of operations: this allows easy chaining of results and failures into further processing operations as inputs.
+The **Grid Garage** python script tools grew over time to manage processing projects within the Knowledge Services Team of the NSW Office of Environment and Heritage. The toolset proves useful when dealing with large amounts of data, some of which may be suffering from data management issues such as lack of metadata, non-standard spatial references, etc. The tools output tables reporting operation meta-data: this allows easy chaining of results and failures into further processing operations as inputs.
 
 **Grid Garage** was born of the need to create rigidly formatted raster datasets for analysis in [MCAS-S](http://www.agriculture.gov.au/abares/aclump/multi-criteria-analysis) to support spatial prioritisation during the project planning phase.
 
