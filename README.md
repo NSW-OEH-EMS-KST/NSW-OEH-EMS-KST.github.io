@@ -8,7 +8,7 @@
 
 The **Grid Garage** python script tools grew over time to manage processing projects within the Knowledge Services Team of the NSW Office of Environment and Heritage. The toolset proves useful when dealing with large amounts of data, some of which may be suffering from data management issues such as lack of metadata, non-standard spatial references, etc. etc. The tools allow for table-ised reporting of outputs and easy chaining of results and failures into further processing operations as inputs.
 
-**Grid Garage** was born of the need to create rigidly formatted raster datasets for analysis in [MCASS-S](http://www.agriculture.gov.au/abares/aclump/multi-criteria-analysis) to support spatial prioritisation ... TOM!!!
+**Grid Garage** was born of the need to create rigidly formatted raster datasets for analysis in [MCAS-S](http://www.agriculture.gov.au/abares/aclump/multi-criteria-analysis) to support spatial prioritisation during the project planning phase.
 
 Grid Garage can be downloaded here:
 [Grid Garage Releases](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases)
