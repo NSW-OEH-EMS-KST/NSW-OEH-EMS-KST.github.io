@@ -1,6 +1,6 @@
 ## Welcome to the KST GitHub Pages
 
-![oeh logo](https://github.com/NSW-OEH-EMS-KST/NSW-OEH-EMS-KST.github.io/blob/master/img/oehlogo.png)
+![oeh logo](https://nsw-oeh-ems-kst.github.io//img/oehlogo.png)
 
 ### Grid Garage
 
