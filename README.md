@@ -21,14 +21,14 @@ Grid Garage can be downloaded here:
 Nothing groundbreaking, just a few tools to address analysis situations where no easy or obvious workflow within ArcGIS was available.
 
 The tools can be downloaded here: 
-[KST Custom Tools Latest Release](https://github.com/NSW-OEH-EMS-KST/kst-custom-tools/tree/kst_custom_tools_1.0.0)
+[KST Custom Tools Releases](https://github.com/NSW-OEH-EMS-KST/kst-custom-tools/releases)
 
 
 ### Aboriginal Site Decision Support Tools (ASDST)
 
 The **ASDST** tools are for in-house work on projects affecting Aboriginal sites. The tools require access to specific datasets.
 
-Releases can be found here: [ASDST Releases]https://github.com/NSW-OEH-EMS-KST/asdst/releases)
+Releases can be found here: [ASDST Releases](https://github.com/NSW-OEH-EMS-KST/asdst/releases)
 
 
 
