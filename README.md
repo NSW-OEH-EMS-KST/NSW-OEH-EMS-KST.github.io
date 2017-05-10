@@ -12,6 +12,13 @@ Grid Garage can be downloaded here:
 [Grid Garage Releases](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases)
 
 
+### KST Custom Tools
+
+Some custom ArcGIS tools developed by the NSW OEH Ecosystem Management Science Knowledge Services Team.
+
+Nothing groundbreaking, just a few tools to address situations where no easy or obvious workflow in ArcGIS was available.
+
+
 ### Support or Contact
 
 Having trouble with our products?
