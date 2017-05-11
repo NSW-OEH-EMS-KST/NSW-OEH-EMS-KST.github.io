@@ -2,10 +2,9 @@
 
 ![oeh logo](https://nsw-oeh-ems-kst.github.io//img/oehlogo.png)
 
-## Index
-[Grid Garage](#grid-garage)
-[KST Custom Tools](#kst-custom-tools)
-[Aboriginal Site Decision Support Tools (ASDST)](#ASDST)
+[Grid Garage | ](#grid-garage)
+[KST Custom Tools | ](#kst-custom-tools)
+[Aboriginal Site Decision Support Tools (ASDST) | ](#ASDST)
 [Support & Contact](#support-contact)
 ****
 
