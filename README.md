@@ -18,14 +18,13 @@ Grid Garage allows you to:
 
 The Grid Garage is intended for use by anyone with an understanding of GIS principles and an intermediate to advanced level of GIS skills.  Using the Grid Garage tools in ArcGIS ModelBuilder requires skills in the use of the ArcGIS ModelBuilder tool.
 
-Grid Garage can be downloaded here:
-[Grid Garage Releases](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases)
-
-The Grid Garage User Guide can be downloaded here:
-[Grid Garage User Guide Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-documentation/releases)
-
-The Sample Data used by the Grid Garage tutorials can be downloaded here:
-[Sample Data Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-sample-data/releases)
+**Downloads**
+Create a new folder your disk and then download and unzip the zip file from the GitHub Release page for each of the following three items. There is a folder in each zip file that contains all the files. See the Grid Garage User Guide for instructions on how to use the Grid Garage Toolbox.
+| Files | Link  |
+| --- | --- |
+| Grid Garage ArcGIS Toolbox | [Grid Garage v3.0.0 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases) |
+| The Grid Garage User Guide | [Grid Garage User Guide v3.2.0 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-documentation/releases) |
+| The Sample Data for use in tutorials | [Sample Data v1.0.1 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-sample-data/releases) |
 
 ## KST Custom Tools
 
