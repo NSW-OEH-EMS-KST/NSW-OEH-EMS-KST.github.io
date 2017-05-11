@@ -20,6 +20,7 @@ The Grid Garage is intended for use by anyone with an understanding of GIS princ
 
 **Downloads**
 Create a new folder your disk and then download and unzip the zip file from the GitHub Release page for each of the following three items. There is a folder in each zip file that contains all the files. See the Grid Garage User Guide for instructions on how to use the Grid Garage Toolbox.
+
 | Files | Link  |
 | --- | --- |
 | Grid Garage ArcGIS Toolbox | [Grid Garage v3.0.0 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases) |
