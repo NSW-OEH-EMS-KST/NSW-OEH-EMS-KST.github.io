@@ -18,8 +18,7 @@ Grid Garage allows you to:
 
 The Grid Garage is intended for use by anyone with an understanding of GIS principles and an intermediate to advanced level of GIS skills.  Using the Grid Garage tools in ArcGIS ModelBuilder requires skills in the use of the ArcGIS ModelBuilder tool.
 
-**Downloads**
-Create a new folder your disk and then download and unzip the zip file from the GitHub Release page for each of the following three items. There is a folder in each zip file that contains all the files. See the Grid Garage User Guide for instructions on how to use the Grid Garage Toolbox. 
+**Download Instructions:** Create a new folder on your computer or network and then download and unzip the zip file from the GitHub Release page for each of the following three items. There is a folder in each zip file that contains all the files. See the Grid Garage User Guide for instructions on how to install and use the Grid Garage Toolbox with the sample data provided. 
 
 | Files | Link  |
 | --- | --- |
