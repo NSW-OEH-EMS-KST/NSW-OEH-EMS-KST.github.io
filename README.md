@@ -2,6 +2,8 @@
 
 ![oeh logo](https://nsw-oeh-ems-kst.github.io//img/oehlogo.png)
 
+---
+
 ## Grid Garage
 
 **Grid Garage** is an ArcGIS python toolbox supporting table based processing. The toolbox is being developed under ArcGIS 10.4.0 
@@ -26,6 +28,8 @@ The Grid Garage is intended for use by anyone with an understanding of GIS princ
 | The Grid Garage User Guide | [Grid Garage User Guide v3.2.0 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-documentation/releases) | |
 | The Sample Data for use in tutorials | [Sample Data v1.0.1 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-sample-data/releases) | |
 
+---
+
 ## KST Custom Tools
 
 **KST Custom Tools** is a python toolbox with a few custom ArcGIS tools developed by the NSW OEH Ecosystem Management Science Knowledge Services Team.
@@ -35,6 +39,7 @@ These tools address analysis situations where there is no easy or obvious workfl
 The tools can be downloaded here: 
 [KST Custom Tools Releases](https://github.com/NSW-OEH-EMS-KST/kst-custom-tools/releases)
 
+---
 
 ## Aboriginal Site Decision Support Tools (ASDST)
 
@@ -42,7 +47,7 @@ The **ASDST** tools are for in-house work on projects affecting Aboriginal sites
 
 Releases can be found here: [ASDST Releases](https://github.com/NSW-OEH-EMS-KST/asdst/releases)
 
-
+---
 
 ## Support or Contact
 
@@ -50,4 +55,5 @@ Having trouble with our products?
 
 Email **Tom**: tom.barrett@environment.nsw.gov.au
 
+---
 
