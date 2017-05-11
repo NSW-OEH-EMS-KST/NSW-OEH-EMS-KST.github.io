@@ -2,7 +2,7 @@
 
 ![oeh logo](https://nsw-oeh-ems-kst.github.io//img/oehlogo.png)
 
-
+[KST Custom Tools](#kst-custom-tools)
 ****
 
 ## Grid Garage
@@ -32,7 +32,7 @@ The Grid Garage is intended for use by anyone with an understanding of GIS princ
 
 ****
 
-## KST Custom Tools
+## <a name="kst-custom-tools"></a> KST Custom Tools 
 
 **KST Custom Tools** is a python toolbox with a few custom ArcGIS tools developed by the NSW OEH Ecosystem Management Science Knowledge Services Team.
 
