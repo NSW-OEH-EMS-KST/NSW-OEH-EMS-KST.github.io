@@ -28,7 +28,7 @@ The Grid Garage is intended for use by anyone with an understanding of GIS princ
 
 | Files | Link  | Notes |
 | --- | --- | --- |
-| Grid Garage ArcGIS Toolbox | [Grid Garage v3.0.0 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases) | Developed and tested in ArcGIS v10.4.0 and v10.4.1.|
+| Grid Garage ArcGIS Toolbox | [Grid Garage v3.0.1 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases) | Developed and tested in ArcGIS v10.4.0 and v10.4.1.|
 | The Grid Garage User Guide | [Grid Garage User Guide v3.2.0 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-documentation/releases) | |
 | The Sample Data for use in tutorials | [Sample Data v1.0.2 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-sample-data/releases) | |
 
