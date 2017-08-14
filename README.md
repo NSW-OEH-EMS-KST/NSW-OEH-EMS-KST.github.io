@@ -26,8 +26,8 @@ The Grid Garage is intended for use by anyone with an understanding of GIS princ
 
 | Files | Link  | Notes |
 | --- | --- | --- |
-| Grid Garage ArcGIS Toolbox | [Grid Garage v3.0.1 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases) | Developed and tested in ArcGIS v10.4.0 and v10.4.1.|
-| The Grid Garage User Guide | [Grid Garage User Guide v3.2.0 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-documentation/releases) | |
+| Grid Garage ArcGIS Toolbox | [Grid Garage v3.1.0 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases/tag/grid_garage_3.1.0)| Version 3.1 introduced the Metadata tools that can by used to generage MCAS-S TIP files. |
+| The Grid Garage User Guide | [See the Grid Garage Wiki for the user guide](https://github.com/NSW-OEH-EMS-KST/grid-garage/wiki) |The user guide is now online. |
 | The Sample Data for use in tutorials | [Sample Data v1.0.2 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-sample-data/releases) | |
 
 
