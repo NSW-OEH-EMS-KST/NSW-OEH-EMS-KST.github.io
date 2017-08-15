@@ -10,7 +10,7 @@
 
 ## <a name="grid-garage"></a> Grid Garage
 
-The **Grid Garage** Toolbox is designed to help you undertake the Geographic Information System (GIS) tasks required to process GIS data (geodata) into a standard, spatially aligned format.  This format is required by most, grid or raster, spatial modelling tools such as the [Multi-criteria Analysis Shell for Spatial Decision Support (MCAS-S)](http://www.agriculture.gov.au/abares/aclump/multi-criteria-analysis). Grid Garage contains 28 tools designed to save you time by batch processing repetitive GIS tasks as well diagnosing problems with data and capturing a record of processing step and any errors encountered.
+The **Grid Garage** Toolbox is designed to help you undertake the Geographic Information System (GIS) tasks required to process GIS data (geodata) into a standard, spatially aligned format.  This format is required by most, grid or raster, spatial modelling tools such as the [Multi-criteria Analysis Shell for Spatial Decision Support (MCAS-S)](http://www.agriculture.gov.au/abares/aclump/multi-criteria-analysis). Grid Garage contains 36 tools designed to save you time by batch processing repetitive GIS tasks as well diagnosing problems with data and capturing a record of processing step and any errors encountered.
 
 Grid Garage provides tools that function using a list based approach to batch processing where both inputs and outputs are specified in tables to enable selective batch processing and detailed result reporting. In many cases the tools simply extend the functionality of standard ArcGIS tools, providing some or all of the inputs required by these tools via the input table to enable batch processing on a 'per item' basis. This approach differs slightly from normal batch processing in ArcGIS, instead of manually selecting single items or a folder on which to apply a tool or model you provide a table listing target datasets. In summary the
 Grid Garage allows you to:
@@ -29,7 +29,6 @@ The Grid Garage is intended for use by anyone with an understanding of GIS princ
 | Grid Garage ArcGIS Toolbox | [Grid Garage v3.1.0 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage/releases/tag/grid_garage_3.1.0)| Version 3.1 introduced the Metadata tools that can by used to generage MCAS-S TIP files. |
 | The Grid Garage User Guide | [See the Grid Garage Wiki for the user guide](https://github.com/NSW-OEH-EMS-KST/grid-garage/wiki) |The user guide is now online. |
 | The Sample Data for use in tutorials | [Sample Data v1.0.2 Release](https://github.com/NSW-OEH-EMS-KST/grid-garage-sample-data/releases) | |
-
 
 ****
 
@@ -59,5 +58,9 @@ Releases can be found here: [ASDST Releases](https://github.com/NSW-OEH-EMS-KST/
 Having trouble with our products?
 
 Email **Tom**: tom.barrett@environment.nsw.gov.au
+
+****
+
+All Grid Garage, kst-custom-tools and ASDST tools, Python scripts and associated documentation are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/deed.en). The legal code for the license is available at [Creative Commons](http://creativecommons.org/licenses/by/4.0/legalcode).  OEH does not represent or warrant that calculations in Grid Garage ArcGIS Toolbox are accurate, correct, useful or meaningful, and does not accept any responsibility for the use of Grid Garage ArcGIS Toolbox in either the form as supplied or as modified by others.© New South Wales Office of Environment and Heritage (OEH), 2016.
 
 ****
