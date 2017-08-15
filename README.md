@@ -57,13 +57,13 @@ Releases can be found here: [ASDST Releases](https://github.com/NSW-OEH-EMS-KST/
 
 Having trouble with our products?
 
-Email **Tom**: tom.barrett@environment.nsw.gov.au
+Email: tom.barrett@environment.nsw.gov.au
 
 ****
 
 All Grid Garage, KST Custom Tools and Aboriginal Site Decision Support Tools (ASDST) tools, Python scripts and associated documentation are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/deed.en). The legal code for the license is available at [Creative Commons](http://creativecommons.org/licenses/by/4.0/legalcode).  OEH does not represent or warrant that calculations in Grid Garage ArcGIS Toolbox are accurate, correct, useful or meaningful, and does not accept any responsibility for the use of Grid Garage ArcGIS Toolbox in either the form as supplied or as modified by others.
 
 
-***© New South Wales Office of Environment and Heritage (OEH), 2016.***
+**© New South Wales Office of Environment and Heritage (OEH), 2016.**
 
 ****
