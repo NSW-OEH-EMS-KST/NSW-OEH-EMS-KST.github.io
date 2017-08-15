@@ -19,6 +19,7 @@ Grid Garage allows you to:
 * Batch process repetitive GIS tasks such as managing (renaming, describing etc.) or processing (clipping, resampling, reprojecting etc.) many geodata inputs such as time-series geodata derived from satellite imagery or climate models.
 * Record any errors when batch processing and diagnose errors by interrogating the input geodata that failed.
 * Develop your own models in ArcGIS ModelBuilder that allow you to automate any GIS workflow utilising one or more of the Grid Garage tools that can process an unlimited number of inputs.
+* Automate the process of generating MCAS-S TIP metadata files for any number of input raster datasets.
 
 The Grid Garage is intended for use by anyone with an understanding of GIS principles and an intermediate to advanced level of GIS skills.  Using the Grid Garage tools in ArcGIS ModelBuilder requires skills in the use of the ArcGIS ModelBuilder tool.
 
